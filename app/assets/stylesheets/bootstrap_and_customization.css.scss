@@ -3,3 +3,6 @@ $navbar-default-bg:		#7f8c8d;
 $navbar-default-link-color:		#ffffff;
 
 @import 'bootstrap';
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
